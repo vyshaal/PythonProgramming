@@ -1,3 +1,4 @@
+
 m,n = map(int,input().split())
 
 magazine = input()
